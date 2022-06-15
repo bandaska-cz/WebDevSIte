@@ -7,7 +7,11 @@ h1 {
 }
 
 .topContainer {
-
+  background-color: whitesmoke;
+height: 200px;
+width: 200px;
+padding: 20px;
+border: solid 10px;
 }
 
 .middleContainer {
