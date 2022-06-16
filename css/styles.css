@@ -26,3 +26,8 @@ h1 {
   height: 200px;
   background-color: blue;
 }
+
+img {
+  position: relative;
+  left: 10%;
+}
