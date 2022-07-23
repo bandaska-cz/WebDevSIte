@@ -1,7 +1,10 @@
 body {
   margin: 0;
   text-align: center;
+<<<<<<< HEAD
   font-family: 'Comfortaa';
+=======
+>>>>>>> 4ebc491c06dd3e9e41d82852f05cc23e75390246
 }
 
 h1 {
@@ -13,8 +16,12 @@ h1 {
 
 .topContainer {
   background-color: whitesmoke;
+<<<<<<< HEAD
   border-radius: 5%;
   margin-top: 50px;
+=======
+
+>>>>>>> 4ebc491c06dd3e9e41d82852f05cc23e75390246
 }
 
 .middleContainer {
@@ -30,6 +37,7 @@ h1 {
   background-color: blue;
 }
 
+<<<<<<< HEAD
 .bottomCloud {
   position: absolute;
   left: 100px;
@@ -43,4 +51,8 @@ h1 {
 
 .underLine {
   text-decoration: underline overline;
+=======
+img {
+  position: relative;
+>>>>>>> 4ebc491c06dd3e9e41d82852f05cc23e75390246
 }
