@@ -1,24 +1,27 @@
 body {
   margin: 0;
+  text-align: center;
+  font-family: 'Comfortaa';
 }
 
 h1 {
-  margin-top: 0;
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-family: 'Lobster'
+  ;
 }
 
 .topContainer {
   background-color: whitesmoke;
-  height: 200px;
-  width: 200px;
-  padding: 20px;
-  border: solid 10px;
-  margin: 10px;
+  border-radius: 5%;
+  margin-top: 50px;
 }
 
 .middleContainer {
   width: 200px;
   height: 200px;
   background-color: red;
+  border-radius: 5%;
 }
 
 .bottomContainer {
@@ -27,7 +30,17 @@ h1 {
   background-color: blue;
 }
 
-img {
-  position: relative;
-  left: 10%;
+.bottomCloud {
+  position: absolute;
+  left: 100px;
+}
+
+.topCloud {
+  position: absolute;
+  top: 50px;
+  right: 100px;
+}
+
+.underLine {
+  text-decoration: underline overline;
 }
