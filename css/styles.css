@@ -46,9 +46,9 @@ hr {
 
 hr::after {
   font-size: 30px;
-  content:".....";
+  content: ".....";
   letter-spacing: 15px;
-  
+
 }
 
 .topContainer {
@@ -90,19 +90,21 @@ hr::after {
 }
 
 .skill-row {
-  width: 50%;
+  width: 25%;
   margin: 100px auto 0px auto;
 }
 
 
 .imgSkill-left {
-  width: 25%;
+  width: 150px;
+  height: 150px;
   float: left;
   padding-right: 30px;
 }
 
 .imgSkill-right {
-  width: 25%;
+  width: 150px;
+  height: 150px;
   float: right;
   padding-left: 30px;
 }
@@ -140,4 +142,4 @@ a:link {
 
 .mezera {
   margin: 50px;
-} 
+}
